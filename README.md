@@ -1,4 +1,4 @@
-# psychology_test (README.md)
+# psychology_test
 
 **Disclaimer:**
 
